@@ -1,0 +1,11 @@
+*.fla
+*.swf
+*.exe
+*.mp3
+*.png
+*.as3proj
+
+
+ReadMe.txt
+Battle_Record/
+TournamentInfo/
